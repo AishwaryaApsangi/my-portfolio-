@@ -87,7 +87,7 @@ const services = [
   {
     service: "Technology Chair, NSLS - National Society of Leadership and Success",
     description:
-      "Led technology initiatives and digital strategies to support the organization&apos;s member engagement",
+      "Led technology initiatives and digital strategies to support the organization's member engagement",
     icon: MonitorSmartphone,
   },
   {
