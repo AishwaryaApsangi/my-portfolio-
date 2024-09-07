@@ -91,13 +91,13 @@ const services = [
     icon: MonitorSmartphone,
   },
   {
-    service: "Bentley Women&apos;s Leadership Program",
+    service: "Bentley Womens Leadership Program",
     description:
       "Leadership development workshops/mentoring sessions focused on empowering women on-campus.",
     icon: Eye,
   },
   {
-    service: "Fall &apos;23 Apparel Chair for Alpha Psi Omega",
+    service: "Fall '23 Apparel Chair for Alpha Psi Omega",
     description:
       "Managed apparel design, including budgeting and coordinating orders for the International Theatre Fraternity.",
     icon: Eye,
