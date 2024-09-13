@@ -436,7 +436,7 @@ export default function Home() {
                   {/* Image Here */}
                   <div className="my-6">
                     <Image
-                      src="/assets/image.png"
+                      src="/assets/finalRun.png"
                       alt="Description of the image"
                       width={500}
                       height={400}
