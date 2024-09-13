@@ -69,7 +69,7 @@ const services = [
   {
     service: "Computer Programming Tutor at CIS Sandbox Bentley University",
     description:
-      "Provide in-depth explanations of programming principles, debug students&apos; code, and offer practical examples to enhance their problem-solving skills.",
+      "Provide in-depth explanations of programming principles, debug student's code, and offer practical examples to enhance their problem-solving skills.",
     icon: Code2,
   },
   {
@@ -100,6 +100,12 @@ const services = [
     service: "Fall '23 Apparel Chair for Alpha Psi Omega",
     description:
       "Managed apparel design, including budgeting and coordinating orders for the International Theatre Fraternity.",
+    icon: Eye,
+  },
+   {
+    service: "L'Oréal Brandstorm Challenge 2023",
+    description:
+      "Collaborated with a team of 3 peers to develop a SaaS platform that helps users measure and reduce the carbon footprint of their beauty routines by offering personalized product recommendations",
     icon: Eye,
   },
 ];
